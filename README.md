@@ -22,4 +22,4 @@ A simple ATM Management System built using Java. This project demonstrates core 
 - Conditional Logic
 - Console-Based Application Development
 
-This project is suitable for beginners who want to practice Core Java and OOP concepts.
+
